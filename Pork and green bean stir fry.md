@@ -22,7 +22,6 @@ Meanwhile, heat half the peanut oil in a wok over high heat; stir-fry beans, in 
 ### Step 3 
 Add remaining peanut oil to wok over a high heat; stir-fry pork for 5 minutes or until browned. 
 ### Step 4 
-Add green onion, ginger, garlic and coriander stems; stir-fry for I minute. Add hoisin, tamari and sesarnr? stir-fry until heated through. Returneans to wok; 
-to combine. 
+Add green onion, ginger, garlic and coriander stems; stir-fry for 1 minute. Add hoisin, tamari and sesame oil; stir-fry until heated through. Return beans to wok; toss to combine. 
 ### Step 5 
-Top stir-fry with coriander leaves; serve with rice 
+Top stir-fry with coriander leaves; serve with rice. 
