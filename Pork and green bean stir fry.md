@@ -15,7 +15,8 @@
 * 1 teaspoon sesame oil
 * 1/3 cup fresh coriander
 ## METHOD 
-Rince rice, drain well. Add rice to a medium saucepan with the water, cover; bring to the boil. Reduce heat to low, cook for 10 minutes or until rice is tender. Stand covered.  
+### Step 1
+Rince rice, drain well. Add rice to a medium saucepan with the water, cover; bring to the boil. Reduce heat to low, cook for 10 minutes or until rice is tender. Stand covered.
 ### Step 2 
 Meanwhile, heat half the peanut oil in a wok over high heat; stir-fry beans, in batches, until the skin begins to blister. Remove from wok. 
 ### Step 3 
