@@ -1,5 +1,5 @@
 # Pork and green bean stir fry 
-
+![](https://user-images.githubusercontent.com/658935/37143501-728bb422-230f-11e8-9dd2-dfbba425db06.jpg)
 #### 0:10 Prep -- 0:20 Cook -- 4 Servings
 ## INGREDIENTS 
 * 1 1/3 cups jasmine rice 
