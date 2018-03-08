@@ -1,6 +1,6 @@
 # Zesty chicken schnitzel
 ![](http://img.taste.com.au/kTHQ4eTw/w720-h480-cfill-q80/taste/2017/04/zesty-chicken-schnitzel-1980x1320-125787-1.jpg)
-### 15 Prep 0:10 Cook 4 Servings
+#### 0:15 Prep -- 0:10 Cook -- 4 Servings
 ## INGREDIENTS
 * 2 lemons
 * 1 1/2 cups (110g) panko breadcrumbs

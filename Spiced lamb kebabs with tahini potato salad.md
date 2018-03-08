@@ -1,6 +1,6 @@
 # Spiced lamb kebabs with tahini potato salad
 ![](http://img.taste.com.au/Q2kZqB0U/w720-h480-cfill-q80/taste/2017/02/spiced-lamb-kebabs-with-tahini-potato-salad-119456-1.jpg)
-### 10 Prep 0:20 Cook 4 Servings
+#### 0:10 Prep -- 0:20 Cook -- 4 Servings
 ## INGREDIENTS
 * 750g baby red-skinned potatoes, halved
 * 600g lamb fillet, cut into 3cm pieces

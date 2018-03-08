@@ -1,6 +1,6 @@
 # Mediterranean chicken bake
 ![](http://img.taste.com.au/un67P3Em/w720-h480-cfill-q80/taste/2016/11/mediterranean-chicken-bake-92908-1.jpeg)
-### 15 Prep 1:00 Cook 4 Servings
+#### 0:15 Prep -- 1:00 Cook -- 4 Servings
 ## INGREDIENTS
 * 4 (about 1kg) chicken marylands
 * 200g baby coliban (chat) potatoes

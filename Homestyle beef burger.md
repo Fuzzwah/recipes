@@ -1,6 +1,6 @@
 # Homestyle beef burger
 ![](http://img.taste.com.au/zw3s_lj1/w720-h480-cfill-q80/taste/2016/11/homestyle-beef-burger-81486-1.jpeg)
-### 50 Prep 0:40 Cook Makes 4
+#### 0:50 Prep -- 0:40 Cook -- 4 Servings
 ## INGREDIENTS
 * 600g beef mince
 * 1/2 teaspoon dried chilli flakes

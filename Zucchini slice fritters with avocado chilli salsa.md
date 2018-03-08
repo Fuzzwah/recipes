@@ -1,6 +1,6 @@
 # Zucchini slice fritters with avocado chilli salsa
 ![](http://img.taste.com.au/rIOlQl6p/w720-h480-cfill-q80/taste/2016/11/zucchini-slice-fritters-with-avocado-chilli-salsa-108954-1.jpeg)
-### 25 Prep 0:20 Cook 4 Servings
+#### 0:25 Prep -- 0:20 Cook -- 4 Servings
 ## INGREDIENTS
 * 2/3 cup plain flour
 * 1/2 cup self-raising flour

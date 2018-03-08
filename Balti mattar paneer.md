@@ -1,6 +1,6 @@
 # Balti mattar paneer
 ![](http://img.taste.com.au/TDdrcbyR/w720-h480-cfill-q80/taste/2016/11/balti-mattar-paneer-78526-1.jpeg)
-### 10 Prep 0:20 Cook 4 Servings
+#### 0:10 Prep -- 0:20 Cook -- 4 Servings
 ## INGREDIENTS
 * 400g paneer, (see note) cut into 1cm cubes
 * 2 1/2 tablespoons vegetable oil

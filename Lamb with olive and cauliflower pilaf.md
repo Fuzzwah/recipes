@@ -1,6 +1,6 @@
 # Lamb with olive and cauliflower pilaf
 ![](http://img.taste.com.au/AfqnokSu/w720-h480-cfill-q80/taste/2016/11/lamb-with-olive-and-cauliflower-pilaf-109547-1.jpeg)
-### 10 Prep 0:20 Cook 4 Servings
+#### 0:10 Prep -- 0:20 Cook -- 4 Servings
 ## INGREDIENTS
 * 2 (about 620g) lamb backstraps
 * 2 tablespoons extra virgin olive oil

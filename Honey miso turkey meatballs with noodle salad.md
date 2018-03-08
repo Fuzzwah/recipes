@@ -1,6 +1,6 @@
 # Honey miso turkey meatballs with noodle salad
 ![](http://img.taste.com.au/75ewBORR/w720-h480-cfill-q80/taste/2016/11/honey-miso-turkey-meatballs-with-noodle-salad-107574-1.jpeg)
-### 15 Prep 0:15 Cook 4 Servings
+#### 0:15 Prep -- 0:15 Cook -- 4 Servings
 ## INGREDIENTS
 * 3 green shallots
 * 600g turkey mince
