@@ -1,18 +1,18 @@
 # Slow-cooked lamb garlicky broad beans
 ![](https://user-images.githubusercontent.com/658935/37236747-051b1896-245f-11e8-8da6-07f995c7af62.jpg)
 ## INGREDIENTS 
-• 1 cup (280g) Greek-style yoghurt 
-• 2 cloves garlic, sliced 
-• 1 teaspoon ground turmeric 
-• 1 tablespoon ground cumin 
-• 1 tablespoon sweet paprika 
-• 1.5kg boneless lamb shoulder
+* 1 cup (280g) Greek-style yoghurt 
+* 2 cloves garlic, sliced 
+* 1 teaspoon ground turmeric 
+* 1 tablespoon ground cumin 
+* 1 tablespoon sweet paprika 
+* 1.5kg boneless lamb shoulder
 * 1/3 cup olive oil 
-• 1 large brown onion, chopped tint* 
-• 2 cloves garlic, crushed, extra 
-• 2 large potatoes, cut into 2cm cubes 
-• lkg frozen broad (lava) beans, thawed, peeled 
-• 1 medium lemon, cut into wedges 
+* 1 large brown onion, chopped tint* 
+* 2 cloves garlic, crushed, extra 
+* 2 large potatoes, cut into 2cm cubes 
+* lkg frozen broad (lava) beans, thawed, peeled 
+* 1 medium lemon, cut into wedges 
 ## METHOD 
 ### Step 1 
 Combine yoghurt, garlic and spices in a large bowl. Add lamb; rub yoghurt mixture over lamb, season. Cover, refrigerate for 3 hours or overnight. 
