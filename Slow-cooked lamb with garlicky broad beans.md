@@ -1,4 +1,4 @@
-# Slow-cooked lamb garlicky broad beans
+# Slow-cooked lamb with garlicky broad beans
 ![](https://user-images.githubusercontent.com/658935/37236747-051b1896-245f-11e8-8da6-07f995c7af62.jpg)
 ## INGREDIENTS 
 * 1 cup (280g) Greek-style yoghurt 
