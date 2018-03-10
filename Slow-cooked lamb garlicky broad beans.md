@@ -25,5 +25,4 @@ Meanwhile, heat oil in a large frying pan over medium-low heat; cook onion, stir
 ### Step 5 
 Add broad beans; cook, covered, for 5 minutes or until the beans and potato are soft. Season. 
 ### Step 6 
-Serve broad bean mixture topped with shredded lamb, 
-pan juices and with lemon wedges. 
+Serve broad bean mixture topped with shredded lamb, pan juices and with lemon wedges. 
