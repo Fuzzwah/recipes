@@ -1,5 +1,5 @@
 # Mexican chicken and rice bowl
-![](https://img.taste.com.au/vdoIc4E6/w720-h480-cfill-q80/taste/2018/01/mexican-chicken-rice-bowl-134872-1.jpg)
+![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Mexican chicken and rice bowl.jpg)
 #### 0:10 Prep -- 0:10 Cook -- 4 Servings
 ## INGREDIENTS
 * 1/3 cup (80ml) olive oil

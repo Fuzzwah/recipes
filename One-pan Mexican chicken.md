@@ -1,5 +1,5 @@
 # One-pan Mexican chicken
-![](http://img.taste.com.au/dfMh3eRK/w720-h480-cfill-q80/taste/2016/11/one-pan-mexican-chicken-78891-1.jpeg)
+![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/One-pan Mexican chicken.jpg)
 #### 0:15 Prep -- 1:20 Cook -- 4 Servings
 ## INGREDIENTS
 * 1 teaspoon Mexican chilli powder

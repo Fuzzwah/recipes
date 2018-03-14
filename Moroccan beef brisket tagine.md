@@ -1,5 +1,5 @@
 # Moroccan beef brisket tagine
-![](http://img.taste.com.au/WcjCh6YJ/w720-h480-cfill-q80/taste/2017/07/moroccan-beef-brisket-1_1980x1320-128787-1.jpg)
+![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Moroccan beef brisket tagine.jpg)
 #### 0:15 Prep -- 4:40 Cook -- 6 Servings
 ## INGREDIENTS
 * 1 tablespoon extra virgin olive oil

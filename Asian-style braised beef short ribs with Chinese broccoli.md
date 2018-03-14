@@ -1,5 +1,5 @@
 # Asian-style braised beef short ribs with Chinese broccoli
-![](http://img.taste.com.au/VLUPloz2/w720-h480-cfill-q80/taste/2016/11/asian-style-braised-beef-short-ribs-with-chinese-broccoli-62541-1.jpeg)
+![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Asian-style braised beef short ribs with Chinese broccoli.jpg)
 #### 0:15 Prep -- 3:20 Cook -- 4 Servings
 ## INGREDIENTS
 * 2 tablespoons sunflower oil
