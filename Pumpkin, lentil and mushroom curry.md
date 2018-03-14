@@ -1,5 +1,5 @@
 # Pumpkin, lentil and mushroom curry
-![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Pumpkin, lentil and mushroom curry.jpg)
+![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Pumpkin,_lentil_and_mushroom_curry.jpg)
 #### 0:10 Prep -- 0:35 Cook -- 4 Servings
 ## INGREDIENTS
 * 2 tablespoons peanut oil, or sunflower oil

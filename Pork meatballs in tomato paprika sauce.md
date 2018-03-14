@@ -1,5 +1,5 @@
 # Pork meatballs in tomato paprika sauce
-![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Pork meatballs in tomato paprika sauce.jpg)
+![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Pork_meatballs_in_tomato_paprika_sauce.jpg)
 #### 0:10 Prep -- 0:20 Cook -- 4 Servings
 ## INGREDIENTS
 * 400g pork mince

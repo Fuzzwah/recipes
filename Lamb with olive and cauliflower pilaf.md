@@ -1,5 +1,5 @@
 # Lamb with olive and cauliflower pilaf
-![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Lamb with olive and cauliflower pilaf.jpg)
+![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Lamb_with_olive_and_cauliflower_pilaf.jpg)
 #### 0:10 Prep -- 0:20 Cook -- 4 Servings
 ## INGREDIENTS
 * 2 (about 620g) lamb backstraps

@@ -1,5 +1,5 @@
 # Spiced lamb kebabs with tahini potato salad
-![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Spiced lamb kebabs with tahini potato salad.jpg)
+![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Spiced_lamb_kebabs_with_tahini_potato_salad.jpg)
 #### 0:10 Prep -- 0:20 Cook -- 4 Servings
 ## INGREDIENTS
 * 750g baby red-skinned potatoes, halved

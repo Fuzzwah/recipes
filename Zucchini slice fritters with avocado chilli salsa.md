@@ -1,5 +1,5 @@
 # Zucchini slice fritters with avocado chilli salsa
-![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Zucchini slice fritters with avocado chilli salsa.jpg)
+![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Zucchini_slice_fritters_with_avocado_chilli_salsa.jpg)
 #### 0:25 Prep -- 0:20 Cook -- 4 Servings
 ## INGREDIENTS
 * 2/3 cup plain flour
