@@ -1,5 +1,5 @@
 # Pumpkin, lentil and mushroom curry
-![](http://img.taste.com.au/TaAvlUCH/w720-h480-cfill-q80/taste/2016/11/pumpkin-lentil-and-mushroom-curry-103357-1.jpeg)
+![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Pumpkin, lentil and mushroom curry.jpg)
 #### 0:10 Prep -- 0:35 Cook -- 4 Servings
 ## INGREDIENTS
 * 2 tablespoons peanut oil, or sunflower oil

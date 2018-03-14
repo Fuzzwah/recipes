@@ -1,5 +1,5 @@
 # Lemongrass, chilli and pork stir-fry
-![](http://img.taste.com.au/Zut9LbmB/w720-h480-cfill-q80/taste/2016/11/lemongrass-chilli-and-pork-stir-fry-92487-1.jpeg)
+![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Lemongrass, chilli and pork stir-fry.jpg)
 #### 0:10 Prep -- 0:15 Cook -- 4 Servings
 ## INGREDIENTS
 * 200g dried rice vermicelli noodles

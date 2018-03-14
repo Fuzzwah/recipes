@@ -1,5 +1,5 @@
 # Sticky Chinese pork stir-fry
-![](http://img.taste.com.au/7HKmgGXt/w720-h480-cfill-q80/taste/2016/11/sticky-chinese-pork-stir-fry-105690-1.jpeg)
+![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Sticky Chinese pork stir-fry.jpg)
 #### 0:15 Prep -- 0:15 Cook -- 4 Servings
 ## INGREDIENTS
 * 600g pork loin medallions, thinly sliced

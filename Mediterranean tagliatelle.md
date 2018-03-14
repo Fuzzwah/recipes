@@ -1,5 +1,5 @@
 # Mediterranean tagliatelle
-![](http://img.taste.com.au/mDvrCN-1/w720-h480-cfill-q80/taste/2016/11/mediterranean-tagliatelle-20864-1.jpeg)
+![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Mediterranean tagliatelle.jpg)
 #### 0:10 Prep -- 0:15 Cook -- 4 Servings
 ## INGREDIENTS
 * 250g dried tagliatelle pasta

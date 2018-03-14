@@ -1,5 +1,5 @@
 # Caramel chicken
-![](http://img.taste.com.au/pWqZhxSD/w720-h480-cfill-q80/taste/2016/11/caramel-chicken-85850-1.jpeg)
+![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Caramel chicken.jpg)
 #### 0:55 Prep -- 0:20 Cook -- 6 Servings
 ## INGREDIENTS
 * 2 teaspoons peanut oil
