@@ -1,5 +1,5 @@
 # Zesty chicken schnitzel
-![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Zesty chicken schnitzel.jpg)
+![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Zesty_chicken_schnitzel.jpg)
 #### 0:15 Prep -- 0:10 Cook -- 4 Servings
 ## INGREDIENTS
 * 2 lemons

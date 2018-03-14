@@ -1,5 +1,5 @@
 # Mediterranean chicken bake
-![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Mediterranean chicken bake.jpg)
+![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Mediterranean_chicken_bake.jpg)
 #### 0:15 Prep -- 1:00 Cook -- 4 Servings
 ## INGREDIENTS
 * 4 (about 1kg) chicken marylands

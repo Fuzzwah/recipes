@@ -1,5 +1,5 @@
 # Mediterranean tagliatelle
-![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Mediterranean tagliatelle.jpg)
+![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Mediterranean_tagliatelle.jpg)
 #### 0:10 Prep -- 0:15 Cook -- 4 Servings
 ## INGREDIENTS
 * 250g dried tagliatelle pasta
