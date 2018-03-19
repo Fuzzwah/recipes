@@ -22,6 +22,8 @@
  ![](https://raw.githubusercontent.com/fuzzwah/recipes/images/pics/thumbs/Mediterranean_tagliatelle.jpg)
 ### [Mexican chicken and rice bowl](Mexican%20chicken%20and%20rice%20bowl.md)
  ![](https://raw.githubusercontent.com/fuzzwah/recipes/images/pics/thumbs/Mexican_chicken_and_rice_bowl.jpg)
+ ### [Mongolian chicken](Mongolian%20chicken.md)
+  ![](https://raw.githubusercontent.com/fuzzwah/recipes/images/pics/thumbs/Mongolian_chicken.jpg)
 ### [Moroccan beef brisket tagine](Moroccan%20beef%20brisket%20tagine.md)
  ![](https://raw.githubusercontent.com/fuzzwah/recipes/images/pics/thumbs/Moroccan_beef_brisket_tagine.jpg)
 ### [One-pan Mexican chicken](One-pan%20Mexican%20chicken.md)
