@@ -1,13 +1,10 @@
-# Recipes
-
 ### [Asian-style braised beef short ribs with Chinese broccoli](Asian-style%20braised%20beef%20short%20ribs%20with%20Chinese%20broccoli.md)
  ![](https://raw.githubusercontent.com/fuzzwah/recipes/images/pics/thumbs/Asian-style_braised_beef_short_ribs_with_Chinese_broccoli.jpg)
 ### [Balti mattar paneer](Balti%20mattar%20paneer.md)
  ![](https://raw.githubusercontent.com/fuzzwah/recipes/images/pics/thumbs/Balti_mattar_paneer.jpg)
 ### [Beef stroganoff with rice](Beef%20stroganoff%20with%20rice.md)
  ![](https://raw.githubusercontent.com/fuzzwah/recipes/images/pics/thumbs/Beef_stroganoff_with_rice.jpg)
-### [Caramel chicken](Caramel%20chicken.md)
-![](https://raw.githubusercontent.com/fuzzwah/recipes/images/pics/thumbs/Caramel_chicken.jpg)
+### [Caramel chicken](Caramel%20chicken.md) ![](https://raw.githubusercontent.com/fuzzwah/recipes/images/pics/thumbs/Caramel_chicken.jpg)
 ### [Homestyle beef burger](Homestyle%20beef%20burger.md)
  ![](https://raw.githubusercontent.com/fuzzwah/recipes/images/pics/thumbs/Homestyle_beef_burger.jpg)
 ### [Honey miso turkey meatballs with noodle salad](Honey%20miso%20turkey%20meatballs%20with%20noodle%20salad.md)

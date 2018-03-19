@@ -1,5 +1,5 @@
 # Honey miso turkey meatballs with noodle salad
-![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Honey_miso_turkey_meatballs_with_noodle_salad.jpg)
+![](https://raw.githubusercontent.com/fuzzwah/recipes/images/pics/Honey_miso_turkey_meatballs_with_noodle_salad.jpg)
 #### 0:15 Prep -- 0:15 Cook -- 4 Servings
 ## INGREDIENTS
 * 3 green shallots

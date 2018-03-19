@@ -1,5 +1,5 @@
 # Lemongrass, chilli and pork stir-fry
-![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Lemongrass,_chilli_and_pork_stir-fry.jpg)
+![](https://raw.githubusercontent.com/fuzzwah/recipes/images/pics/Lemongrass,_chilli_and_pork_stir-fry.jpg)
 #### 0:10 Prep -- 0:15 Cook -- 4 Servings
 ## INGREDIENTS
 * 200g dried rice vermicelli noodles
