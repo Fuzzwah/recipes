@@ -1,5 +1,5 @@
 # Mexican chicken and rice bowl
-![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Mexican_chicken_and_rice_bowl.jpg)
+![](https://raw.githubusercontent.com/fuzzwah/recipes/images/pics/Mexican_chicken_and_rice_bowl.jpg)
 #### 0:10 Prep -- 0:10 Cook -- 4 Servings
 ## INGREDIENTS
 * 1/3 cup (80ml) olive oil

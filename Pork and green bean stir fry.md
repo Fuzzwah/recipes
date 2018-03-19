@@ -1,5 +1,5 @@
 # Pork and green bean stir fry
-![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Pork_and_green_bean_stir_fry.jpg)
+![](https://raw.githubusercontent.com/fuzzwah/recipes/images/pics/Pork_and_green_bean_stir_fry.jpg)
 #### 0:10 Prep -- 0:20 Cook -- 4 Servings
 ## INGREDIENTS
 * 1 1/3 cups jasmine rice
