@@ -14,6 +14,8 @@
  ![](https://raw.githubusercontent.com/fuzzwah/recipes/images/pics/thumbs/Honey_miso_turkey_meatballs_with_noodle_salad.jpg)
 ### [Lamb with olive and cauliflower pilaf](Lamb_with_olive_and_cauliflower_pilaf.md)
  ![](https://raw.githubusercontent.com/fuzzwah/recipes/images/pics/thumbs/Lamb_with_olive_and_cauliflower_pilaf.jpg)
+ ### [Lasagne](Lasagne.md)
+![](https://raw.githubusercontent.com/fuzzwah/recipes/images/pics/thumbs/Lasagne.jpg)
 ### [Lemongrass, chilli and pork stir-fry](Lemongrass,_chilli_and_pork_stir-fry.md)
  ![](https://raw.githubusercontent.com/fuzzwah/recipes/images/pics/thumbs/Lemongrass,_chilli_and_pork_stir-fry.jpg)
 ### [Mediterranean chicken bake](Mediterranean_chicken_bake.md)
