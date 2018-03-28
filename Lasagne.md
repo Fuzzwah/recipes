@@ -9,6 +9,9 @@
 * 2 x 400g cans Italian diced tomatoes
 * 125ml (1/2 cup) dry red wine
 * 55g (1/4 cup) tomato paste
+* 4 carrots, cut into circles
+* 300g mushrooms, chopped in quarters
+* 200g frozen peas
 * Salt & freshly ground black pepper
 * Olive oil, extra, to grease
 * 4 fresh lasagne sheets
@@ -28,7 +31,7 @@
 * Salt & ground white pepper
 ## METHOD
 ### Step 1
-Preheat oven to 180°C. Heat the oil in a large frying pan over medium heat. Add the onion and garlic and cook, stirring, for 5 minutes or until onion softens. Add the mince and cook, stirring with a wooden spoon to break up any lumps, for 5 minutes or until mince changes colour. Add the tomato, wine and tomato paste, and bring to the boil. Reduce heat to low. Simmer, uncovered, stirring occasionally, for 30 minutes or until sauce thickens slightly. Remove from heat. Taste and season with salt and pepper.
+Preheat oven to 180°C. Heat the oil in a large frying pan over medium heat. Add the onion and garlic and cook, stirring, for 5 minutes or until onion softens. Add the mince and cook, stirring with a wooden spoon to break up any lumps, for 5 minutes or until mince changes colour. Add the tomato, wine, and tomato paste, bring to the boil. Add carrots, mushrooms and peas. Reduce heat to low. Simmer, uncovered, stirring occasionally, for 30 minutes or until sauce thickens slightly. Remove from heat. Taste and season with salt and pepper.
 ### Step 2
 Meanwhile, to make the cheese sauce, combine the milk, onion, parsley stalks, peppercorns, cloves and bay leaves in a medium saucepan and bring to a simmer over medium heat. Remove from heat and set aside for 15 minutes to infuse.
 ### Step 3
