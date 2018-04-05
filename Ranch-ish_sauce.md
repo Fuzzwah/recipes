@@ -8,9 +8,9 @@
 * 1/4 cup Italian flat-leaf parsley
 * 1 dill pickle, minced
 * 1 tbs fresh chives, minced
-* 1 tps Worcestershire sauce
-* 1/2 tps ground black pepper
-* 1/2 tps white vinegar
+* 1 tsp Worcestershire sauce
+* 1/2 tsp ground black pepper
+* 1/2 tsp white vinegar
 * pinch paprika
 * small pinch cayenne pepper
 * dash of hot sauce
