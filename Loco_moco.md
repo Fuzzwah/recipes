@@ -1,5 +1,5 @@
 # Loco moco
-![](https://raw.githubusercontent.com/fuzzwah/recipes/images/pics/Loco_mocojpg)
+![](https://raw.githubusercontent.com/fuzzwah/recipes/images/pics/Loco_moco.jpg)
 #### 0:10 Prep -- 0:10 Cook -- 4 Servings
 ## INGREDIENTS
 * 450g Ground beef
