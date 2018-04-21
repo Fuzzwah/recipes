@@ -33,7 +33,7 @@ VERSION
     $Id$
 """
 
-__program__ = "Build recipe repo readme"
+__program__ = "make_readme"
 __author__ = "Robert Crouch (rob.crouch@gmail.com)"
 __copyright__ = "Copyright (C) 2018- Robert Crouch"
 __license__ = "LGPL 3.0"
@@ -43,16 +43,14 @@ import os
 import sys
 import argparse
 import logging, logging.handlers
-import configobj
 
 class App(object):
     """ The main class of your application
     """
 
-    def __init__(self, log, args, config):
+    def __init__(self, log, args):
         self.log = log
         self.args = args
-        self.config = config
         self.version = "{}: {}".format(__program__, __version__)
 
         self.log.info(self.version)
@@ -82,7 +80,6 @@ def parse_args(argv):
     # Define and parse command line arguments
     parser = argparse.ArgumentParser(description=__program__)
     parser.add_argument("--logfile", help="file to write log to", default="%s.log" % __program__)
-    parser.add_argument("--configfile", help="use a different config file", default="config.ini")
     parser.add_argument("--debug", action='store_true', default=False)
 
     # uncomment this if you want to force at least one command line option
@@ -101,7 +98,7 @@ def setup_logging(args):
     basepath = os.path.abspath(".")
 
     # set up all the logging stuff
-    LOG_FILENAME = os.path.join(basepath, "%s.log" % args.logfile)
+    LOG_FILENAME = os.path.join(basepath, "%s" % args.logfile)
 
     if args.debug:
         LOG_LEVEL = logging.DEBUG
@@ -135,24 +132,12 @@ def main(raw_args):
     # connect to the logger we set up
     log = logging.getLogger(__name__)
 
-    if not os.path.isfile(args.configfile):
-        config = configobj.ConfigObj()
-        config.filename = args.configfile
-
-        config['Section'] = {}
-        config['Section']['item'] = 'something'
-        config.write()
-
-    # try to read in the config
-    try:
-        config = configobj.ConfigObj(args.configfile)
-
     except (IOError, KeyError, AttributeError) as e:
         print("Unable to successfully read config file: %s" % args.configfile)
         sys.exit(0)
 
     # fire up our base class and get this app cranking!
-    app = App(log, args, config)
+    app = App(log, args)
 
     # things that the app does go here:
     app.build_readme()
