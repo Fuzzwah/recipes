@@ -61,14 +61,18 @@ class App(object):
         """ Builds the readme
         """
 
+        recipes = []
         readme = open('README.md', 'w')
-        recipes = [f for f in sorted(os.listdir()) if os.path.isfile(f)]
-        for r_file in recipes:
-            extension = os.path.splitext(r_file)[1][1:]
-            if r_file != "README.md" and extension == "md":
-                r_file = r_file[:-3]
-                r_name = r_file.replace("_", " ")
-                readme.write("### [{0}]({1}.md)\n![](https://raw.githubusercontent.com/fuzzwah/recipes/images/pics/thumbs/{1}.jpg)\n".format(r_name, r_file))
+        files = [f for f in sorted(os.listdir()) if os.path.isfile(f)]
+        for f in files:
+            extension = os.path.splitext(f)[1][1:]
+            if f != "README.md" and extension == "md":
+                recipe_name = f[:-3].replace("_", " ")
+                print(recipe_name)
+                recipes.append(recipe_name)
+                readme.write("### [{0}]({1}.md)\n![](https://raw.githubusercontent.com/fuzzwah/recipes/images/pics/thumbs/{1}.jpg)\n".format(recipe_name, f))
+        
+        print("README.md updated to list {} recipes".format(len(recipes)))
 
         return True
 
@@ -131,10 +135,6 @@ def main(raw_args):
 
     # connect to the logger we set up
     log = logging.getLogger(__name__)
-
-    except (IOError, KeyError, AttributeError) as e:
-        print("Unable to successfully read config file: %s" % args.configfile)
-        sys.exit(0)
 
     # fire up our base class and get this app cranking!
     app = App(log, args)
