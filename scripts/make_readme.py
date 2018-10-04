@@ -67,10 +67,11 @@ class App(object):
         for f in files:
             extension = os.path.splitext(f)[1][1:]
             if f != "README.md" and extension == "md":
-                recipe_name = f[:-3].replace("_", " ")
+                f = f[:-3]
+                recipe_name = f.replace("_", " ")
                 print(recipe_name)
                 recipes.append(recipe_name)
-                readme.write("### [{0}]({1}.md)\n![](https://raw.githubusercontent.com/fuzzwah/recipes/images/pics/thumbs/{1}.jpg)\n".format(recipe_name, f))
+                readme.write("### [{recipe_name}]({f}.md)\n![](https://raw.githubusercontent.com/fuzzwah/recipes/images/pics/thumbs/{f}.jpg)\n".format(recipe_name=recipe_name, f=f))
         
         print("README.md updated to list {} recipes".format(len(recipes)))
 
