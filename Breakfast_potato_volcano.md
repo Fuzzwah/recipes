@@ -10,25 +10,25 @@
 ## METHOD
 ### Step 1
 Preheat oven to 200˚C.
-### Step 1
-On a cutting board, peel potatoes then cut each in half widthwise.
 ### Step 2
-Using a melon ball scooper or a metal teaspoon hollow out the potato starting from the cut side, once you have most of the potato hollowed out from that side create a smaller hole on the rounded side and continue hollowing until you can see through the potato.
+On a cutting board, peel potatoes then cut each in half widthwise.
 ### Step 3
-Place potatoes in water to avoid discoloration while you finish hollowing out the rest.
+Using a melon ball scooper or a metal teaspoon hollow out the potato starting from the cut side, once you have most of the potato hollowed out from that side create a smaller hole on the rounded side and continue hollowing until you can see through the potato.
 ### Step 4
-Place potatoes with the smaller hole facing up on a parchment paper-lined baking sheet.
+Place potatoes in water to avoid discoloration while you finish hollowing out the rest.
 ### Step 5
-Wrap one piece of bacon and each potato, tucking in the end of the bacon so it stays in place. You might need to use a toothpick to hold the bacon in place.
+Place potatoes with the smaller hole facing up on a parchment paper-lined baking sheet.
 ### Step 6
-Bake for 45 minutes, or until bacon reaches desired crispiness.
+Wrap one piece of bacon and each potato, tucking in the end of the bacon so it stays in place. You might need to use a toothpick to hold the bacon in place.
 ### Step 7
-Allow potatoes to cool slightly then press cheddar cheese into the bottom of the potato.
+Bake for 45 minutes, or until bacon reaches desired crispiness.
 ### Step 8
-Crack an egg over the top hole of the potato being careful not to let too much of the egg white pour over the side.
+Allow potatoes to cool slightly then press cheddar cheese into the bottom of the potato.
 ### Step 9
-Sprinkle chives over the egg.
+Crack an egg over the top hole of the potato being careful not to let too much of the egg white pour over the side.
 ### Step 10
-Bake for 6 to 12 minutes depending on how well done you would like your eggs.
+Sprinkle chives over the egg.
 ### Step 11
+Bake for 6 to 12 minutes depending on how well done you would like your eggs.
+### Step 12
 Let cool before serving.
