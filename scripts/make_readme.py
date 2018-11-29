@@ -71,8 +71,8 @@ class App(object):
                 recipe_name = f.replace("_", " ")
                 print(recipe_name)
                 recipes.append(recipe_name)
-                readme.write("### [{recipe_name}]({f}.md)".format(recipe_name=recipe_name, f=f))
-                readme.write("[![](https://raw.githubusercontent.com/fuzzwah/recipes/images/pics/thumbs/{f}.jpg)]({f}.md)".format(recipe_name=recipe_name, f=f))
+                readme.write("### [{recipe_name}]({f}.md)\n".format(recipe_name=recipe_name, f=f))
+                readme.write("[![](https://raw.githubusercontent.com/fuzzwah/recipes/images/pics/thumbs/{f}.jpg)]({f}.md)\n".format(recipe_name=recipe_name, f=f))
         
         print("README.md updated to list {} recipes".format(len(recipes)))
 
