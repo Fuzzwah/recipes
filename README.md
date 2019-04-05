@@ -36,6 +36,8 @@
 [![](https://raw.githubusercontent.com/fuzzwah/recipes/images/pics/thumbs/Jerk_chicken_salad.jpg)](Jerk_chicken_salad.md)
 ### [Kung pao lamb](Kung_pao_lamb.md)
 [![](https://raw.githubusercontent.com/fuzzwah/recipes/images/pics/thumbs/Kung_pao_lamb.jpg)](Kung_pao_lamb.md)
+### [Lamb kofta](Lamb_kofta.md)
+[![](https://raw.githubusercontent.com/fuzzwah/recipes/images/pics/thumbs/Lamb_kofta.jpg)](Lamb_kofta.md)
 ### [Lamb with olive and cauliflower pilaf](Lamb_with_olive_and_cauliflower_pilaf.md)
 [![](https://raw.githubusercontent.com/fuzzwah/recipes/images/pics/thumbs/Lamb_with_olive_and_cauliflower_pilaf.jpg)](Lamb_with_olive_and_cauliflower_pilaf.md)
 ### [Lasagne](Lasagne.md)
