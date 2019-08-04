@@ -1,5 +1,5 @@
 # One-pot healthy Mexican beef mince
-![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/One-pot_healthy_Mexican_beef_mince.jpg)
+![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Mexican_beef_mince.jpg)
 #### 0:10 Prep -- 0:25 Cook -- 4 Servings
 ## INGREDIENTS
 * 2 teaspoons extra virgin olive oil

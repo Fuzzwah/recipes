@@ -1,5 +1,5 @@
 # One-pan Mexican chicken
-![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/One-pan_Mexican_chicken.jpg)
+![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Mexican_chicken.jpg)
 #### 0:15 Prep -- 1:20 Cook -- 4 Servings
 ## INGREDIENTS
 * 1 teaspoon Mexican chilli powder

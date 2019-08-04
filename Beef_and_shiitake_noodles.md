@@ -1,5 +1,5 @@
 # Crispy beef and shiitake noodles
-![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Crispy_beef_and_shiitake_noodles.jpg)
+![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Beef_and_shiitake_noodles.jpg)
 #### 0:15 Prep -- 0:15 Cook -- 4 Servings
 ## INGREDIENTS
 * 450g fresh hokkien noodles

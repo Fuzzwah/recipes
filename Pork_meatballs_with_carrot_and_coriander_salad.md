@@ -1,5 +1,5 @@
 # Spicy pork meatballs with carrot and coriander salad
-![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Spicy_pork_meatballs_with_carrot_and_coriander_salad.jpg)
+![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Pork_meatballs_with_carrot_and_coriander_salad.jpg)
 #### 0:15 Prep -- 0:10 Cook -- 4 Servings
 ## INGREDIENTS
 * 500g extra lean pork mince

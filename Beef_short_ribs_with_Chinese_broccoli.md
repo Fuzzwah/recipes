@@ -1,5 +1,5 @@
 # Asian-style braised beef short ribs with Chinese broccoli
-![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Asian-style_braised_beef_short_ribs_with_Chinese_broccoli.jpg)
+![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Beef_short_ribs_with_Chinese_broccoli.jpg)
 #### 0:15 Prep -- 3:20 Cook -- 4 Servings
 ## INGREDIENTS
 * 2 tablespoons sunflower oil
