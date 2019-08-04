@@ -1,5 +1,5 @@
 # Slow-cooker pulled pork
-![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Slow-cooker_pulled_pork.jpg)
+![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Pulled_pork.jpg)
 #### 0:05 Prep -- 6:00 Cook -- 8 Servings
 ## INGREDIENTS
 * 1.8kg-piece boneless pork shoulder
