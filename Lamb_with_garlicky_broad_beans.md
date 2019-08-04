@@ -1,5 +1,5 @@
 # Slow-cooked lamb with garlicky broad beans
-![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Slow-cooked_lamb_with_garlicky_broad_beans.jpg)
+![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Lamb_with_garlicky_broad_beans.jpg)
 ## INGREDIENTS
 * 1 cup (280g) Greek-style yoghurt
 * 2 cloves garlic, sliced
