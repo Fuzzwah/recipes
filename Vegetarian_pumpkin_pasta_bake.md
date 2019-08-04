@@ -1,5 +1,5 @@
 # Creamy vegetarian pumpkin pasta bake
-![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Creamy_vegetarian_pumpkin_pasta_bake.jpg)
+![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Vegetarian_pumpkin_pasta_bake.jpg)
 #### 0:30 Prep -- 0:55 Cook -- 6 Servings
 ## INGREDIENTS
 * 1.8kg Kent pumpkin, peeled, diced into 1.5cm pieces
