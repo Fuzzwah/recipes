@@ -1,5 +1,5 @@
 # Cauliflower fritters
-![](https://raw.githubusercontent.com/fuzzwah/recipes/images/pics/Cauliflower_fritters.jpg)
+![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Cauliflower_fritters.jpg)
 #### 0:10 Prep -- 0:20 Cook -- 6 Servings
 ## INGREDIENTS
 * 850g cauliflower, trimmed, cut into florets

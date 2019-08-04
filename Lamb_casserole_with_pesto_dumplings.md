@@ -1,5 +1,5 @@
 # Tomato & lamb casserole with pesto dumplings
-![](https://raw.githubusercontent.com/fuzzwah/recipes/images/pics/Tomato_&_lamb_casserole_with_pesto_dumplings.jpg)
+![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Tomato_&_lamb_casserole_with_pesto_dumplings.jpg)
 #### 0:45 Prep -- 2:00 Cook -- 6 Servings
 ## INGREDIENTS
 * 40g (1/4 cup) plain flour

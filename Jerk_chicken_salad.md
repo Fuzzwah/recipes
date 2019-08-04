@@ -1,5 +1,5 @@
 # Jerk chicken salad
-![](https://raw.githubusercontent.com/fuzzwah/recipes/images/pics/Jerk_chicken_salad.jpg)
+![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Jerk_chicken_salad.jpg)
 #### 0:15 Prep -- 0:20 Cook -- 4 Servings
 ## INGREDIENTS
 * 2 teaspoons mixed spice

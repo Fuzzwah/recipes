@@ -1,5 +1,5 @@
 # Breakfast potato volcano
-![](https://raw.githubusercontent.com/fuzzwah/recipes/images/pics/Breakfast_potato_volcano.jpg)
+![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Breakfast_potato_volcano.jpg)
 #### 0:30 Prep -- 0:55 Cook -- 6 Servings
 ## INGREDIENTS
 * 3 russet potatoes

@@ -1,5 +1,5 @@
 # Lamb kofta
-![](https://raw.githubusercontent.com/fuzzwah/recipes/images/pics/Lamb_kofta.jpg)
+![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Lamb_kofta.jpg)
 #### 0:30 Prep -- 0:10 Cook -- 12 Servings
 ## INGREDIENTS
 * 1kg lamb mince

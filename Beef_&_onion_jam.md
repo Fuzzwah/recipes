@@ -1,5 +1,5 @@
 # Crunchy top slow-cooked beef & onion jam
-![](https://raw.githubusercontent.com/fuzzwah/recipes/images/pics/Crunchy_top_slow-cooked_beef_&_onion_jam.jpg)
+![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Crunchy_top_slow-cooked_beef_&_onion_jam.jpg)
 #### 0:30 Prep -- 3:45 Cook -- 4 Servings
 ## INGREDIENTS
 * 1 tablespoon olive oil

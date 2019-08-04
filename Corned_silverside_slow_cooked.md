@@ -1,5 +1,5 @@
 # Corned silverside slow cooked
-![](https://raw.githubusercontent.com/fuzzwah/recipes/images/pics/Corned_silverside_slow_cooked.jpg)
+![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Corned_silverside_slow_cooked.jpg)
 #### 0:30 Prep -- 8:00 Cook -- 6 Servings
 ## INGREDIENTS
 * 1.5kg piece uncooked corned silverside, fat removed, rinsed

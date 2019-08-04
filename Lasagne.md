@@ -1,5 +1,5 @@
 # Lasagne
-![](https://raw.githubusercontent.com/fuzzwah/recipes/images/pics/Lasagne.jpg)
+![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Lasagne.jpg)
 #### 0:20 Prep -- 1:20 Cook -- 8 Servings
 ## INGREDIENTS
 * 2 teaspoons olive oil

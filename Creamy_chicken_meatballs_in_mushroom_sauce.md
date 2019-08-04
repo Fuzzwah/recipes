@@ -1,5 +1,5 @@
 # Creamy chicken meatballs in mushroom sauce
-![](https://raw.githubusercontent.com/fuzzwah/recipes/images/pics/Creamy_chicken_meatballs_in_mushroom_sauce.jpg)
+![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Creamy_chicken_meatballs_in_mushroom_sauce.jpg)
 #### 0:10 Prep -- 0:30 Cook -- 15 meatballs
 ## INGREDIENTS
 * ¾ cup Bread Crumbs

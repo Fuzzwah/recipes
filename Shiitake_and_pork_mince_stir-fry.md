@@ -1,5 +1,5 @@
 # Speedy shiitake and pork mince stir-fry
-![](https://raw.githubusercontent.com/fuzzwah/recipes/images/pics/Speedy_shiitake_and_pork_mince_stir-fry.jpg)
+![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Speedy_shiitake_and_pork_mince_stir-fry.jpg)
 #### 0:10 Prep -- 0:25 Cook -- 4 Servings
 ## INGREDIENTS
 * 1 1/2 tablespoons salt-reduced soy sauce

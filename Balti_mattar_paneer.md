@@ -1,5 +1,5 @@
 # Balti mattar paneer
-![](https://raw.githubusercontent.com/fuzzwah/recipes/images/pics/Balti_mattar_paneer.jpg)
+![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Balti_mattar_paneer.jpg)
 #### 0:10 Prep -- 0:20 Cook -- 4 Servings
 ## INGREDIENTS
 * 400g paneer, (see note) cut into 1cm cubes

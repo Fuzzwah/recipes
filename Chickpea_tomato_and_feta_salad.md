@@ -1,5 +1,5 @@
 # Chickpea, tomato and feta salad
-![](https://raw.githubusercontent.com/fuzzwah/recipes/images/pics/Chickpea_tomato_and_feta_salad.jpg)
+![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Chickpea_tomato_and_feta_salad.jpg)
 #### 0:20 Prep -- 8 Servings
 ## INGREDIENTS
 * 2 x 300g cans chickpeas, drained, rinsed

@@ -1,5 +1,5 @@
 # Ranch-ish sauce
-![](https://raw.githubusercontent.com/fuzzwah/recipes/images/pics/Ranch-ish_sauce.jpg)
+![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Ranch-ish_sauce.jpg)
 ## Ingredients
 * 1 garlic clove
 * pinch of salt

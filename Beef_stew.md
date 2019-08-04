@@ -1,5 +1,5 @@
 # Beef stew
-![](https://raw.githubusercontent.com/fuzzwah/recipes/images/pics/Beef_stew.jpg)
+![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Beef_stew.jpg)
 #### 0:30 Prep -- 4:00 Cook -- 6 Servings
 ## INGREDIENTS
 * 800 g lean stewing beef

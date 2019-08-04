@@ -1,5 +1,5 @@
 # Kung pao lamb
-![](https://raw.githubusercontent.com/fuzzwah/recipes/images/pics/Kung_pao_lamb.jpg)
+![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Kung_pao_lamb.jpg)
 #### 0:15 Prep -- 0:15 Cook -- 4 Servings
 ## INGREDIENTS
 * 2 tablespoons peanut oil

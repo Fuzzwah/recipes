@@ -1,5 +1,5 @@
 # Corned beef hash
-![](https://raw.githubusercontent.com/fuzzwah/recipes/images/pics/Corned-beef-hash.jpg)
+![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Corned-beef-hash.jpg)
 #### 0:15 Prep -- 0:30 Cook -- 4 Servings
 ## INGREDIENTS
 * 1 pound cooked corned beef

@@ -1,5 +1,5 @@
 # Pork Meatballs
-![](https://raw.githubusercontent.com/fuzzwah/recipes/images/pics/Pork_meatballs.jpg)
+![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Pork_meatballs.jpg)
 #### 0:30 Prep -- 1:05 Cook -- 4 Servings
 ## INGREDIENTS
 * 1 kg ground pork

@@ -1,5 +1,5 @@
 # Fettucine primavera
-![](https://raw.githubusercontent.com/fuzzwah/recipes/images/pics/Fettucine_primavera.jpg)
+![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Fettucine_primavera.jpg)
 #### 0:15 Prep -- 0:10 Cook -- 4 Servings
 ## INGREDIENTS
 * 300g fresh fettuccine

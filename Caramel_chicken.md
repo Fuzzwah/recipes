@@ -1,5 +1,5 @@
 # Caramel chicken
-![](https://raw.githubusercontent.com/fuzzwah/recipes/images/pics/Caramel_chicken.jpg)
+![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Caramel_chicken.jpg)
 #### 0:55 Prep -- 0:20 Cook -- 6 Servings
 ## INGREDIENTS
 * 2 teaspoons peanut oil

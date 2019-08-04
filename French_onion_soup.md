@@ -1,5 +1,5 @@
 # French onion soup
-![](https://raw.githubusercontent.com/fuzzwah/recipes/images/pics/French_onion_soup.jpg)
+![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/French_onion_soup.jpg)
 #### 0:25 Prep -- 1:20 Cook -- 6 Servings 
 ## INGREDIENTS
 * 60g butter, chopped

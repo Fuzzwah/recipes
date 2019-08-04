@@ -1,5 +1,5 @@
 # Chicken and prawn paella
-![](https://raw.githubusercontent.com/fuzzwah/recipes/images/pics/Chicken_and_prawn_paella.jpg)
+![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Chicken_and_prawn_paella.jpg)
 #### 0:30 Prep -- 1:00 Cook -- 6 Servings
 ## INGREDIENTS
 * 1 tablespoon olive oil

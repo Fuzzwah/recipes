@@ -1,5 +1,5 @@
 # Beef stroganoff with rice
-![](https://raw.githubusercontent.com/fuzzwah/recipes/images/pics/Beef_stroganoff_with_rice.jpg)
+![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Beef_stroganoff_with_rice.jpg)
 #### 0:15 Prep -- 1:00 Cook -- 4 Servings
 ## INGREDIENTS
 * 500g beef strips

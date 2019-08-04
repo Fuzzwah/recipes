@@ -1,5 +1,5 @@
 # Beef and salad tacos
-![](https://raw.githubusercontent.com/fuzzwah/recipes/images/pics/Beef-and-salad-tacos.jpg)
+![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Beef-and-salad-tacos.jpg)
 #### 0:15 Prep -- 0:20 Cook -- 10 tacos
 ## INGREDIENTS
 * 1 tablespoon olive oil

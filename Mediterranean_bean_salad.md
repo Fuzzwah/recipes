@@ -1,5 +1,5 @@
 # Mediterranean bean salad
-![](https://raw.githubusercontent.com/fuzzwah/recipes/images/pics/Mediterranean_bean_salad.jpg)
+![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Mediterranean_bean_salad.jpg)
 #### 0:10 Prep -- 0:00 Cook -- 4 Servings
 ## INGREDIENTS
 * 400g can mixed beans, rinsed, drained

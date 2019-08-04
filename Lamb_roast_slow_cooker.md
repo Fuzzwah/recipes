@@ -1,5 +1,5 @@
 # Lamb roast (slow cooker)
-![](https://raw.githubusercontent.com/fuzzwah/recipes/images/pics/Lamb_roast_slow_cooker.jpg)
+![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Lamb_roast_slow_cooker.jpg)
 #### 0:15 Prep -- 8:10 Cook -- 6 Servings
 ## INGREDIENTS
 * 2kg lamb leg

@@ -1,5 +1,5 @@
 # Pasta bake
-![](https://raw.githubusercontent.com/fuzzwah/recipes/images/pics/Pasta_bake.jpg)
+![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Pasta_bake.jpg)
 #### 0:05 Prep -- 0:25 Cook -- 6 Servings
 ## INGREDIENTS
 * 2 cups dried risoni

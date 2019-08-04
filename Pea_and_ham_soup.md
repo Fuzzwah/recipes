@@ -1,5 +1,5 @@
 # Pea and ham soup
-![](https://raw.githubusercontent.com/fuzzwah/recipes/images/pics/Pea_and_ham_soup.jpg)
+![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Pea_and_ham_soup.jpg)
 #### 0:15 Prep -- 2:40 Cook -- 4 Servings
 ## INGREDIENTS
 * 290g (1 1/3 cups) green split peas

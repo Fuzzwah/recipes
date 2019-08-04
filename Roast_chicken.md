@@ -1,5 +1,5 @@
 # Lemon and thyme roast chicken
-![](https://raw.githubusercontent.com/fuzzwah/recipes/images/pics/Lemon-and-thyme-roast-chicken.jpg)
+![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Lemon-and-thyme-roast-chicken.jpg)
 #### 0:10 Prep -- 1:15 Cook -- 4 Servings
 ## INGREDIENTS
 * 1.8kg whole chicken

@@ -1,5 +1,5 @@
 # Homestyle beef burger
-![](https://raw.githubusercontent.com/fuzzwah/recipes/images/pics/Homestyle_beef_burger.jpg)
+![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Homestyle_beef_burger.jpg)
 #### 0:50 Prep -- 0:40 Cook -- 4 Servings
 ## INGREDIENTS
 * 600g beef mince

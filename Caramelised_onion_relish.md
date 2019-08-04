@@ -1,5 +1,5 @@
 # Caramelised onion relish
-![](https://raw.githubusercontent.com/fuzzwah/recipes/images/pics/Caramelised_onion_relish.jpg)
+![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Caramelised_onion_relish.jpg)
 #### 0:15 Prep -- 0:50 Cook -- Makes 2 cups
 ## INGREDIENTS
 * 2 tablespoons olive oil

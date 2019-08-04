@@ -1,5 +1,5 @@
 # Mongolian chicken
-![](https://raw.githubusercontent.com/fuzzwah/recipes/images/pics/Mongolian_chicken.jpg)
+![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Mongolian_chicken.jpg)
 #### 0:40 Prep -- 0:10 Cook -- 4 Servings
 ## INGREDIENTS
 * 2 teaspoons cornflour

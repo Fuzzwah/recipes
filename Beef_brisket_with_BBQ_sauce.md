@@ -1,5 +1,5 @@
 # Beef Brisket with BBQ Sauce
-![](https://raw.githubusercontent.com/fuzzwah/recipes/images/pics/Beef_brisket_with_BBQ_sauce.jpg)
+![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Beef_brisket_with_BBQ_sauce.jpg)
 #### 0:15 Prep -- 10:00 Cook -- 8 Servings
 ## INGREDIENTS
 * 1.5 – 2 kg beef brisket

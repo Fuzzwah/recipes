@@ -1,5 +1,5 @@
 # Satay chicken
-![](https://raw.githubusercontent.com/fuzzwah/recipes/images/pics/Satay_chicken.jpg)
+![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Satay_chicken.jpg)
 #### 0:20 Prep -- 0:30 Cook -- 6 Servings
 ## INGREDIENTS
 * 1 onion diced

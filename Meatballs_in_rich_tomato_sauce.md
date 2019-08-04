@@ -1,5 +1,5 @@
 # Meatballs in rich tomato sauce
-![](https://raw.githubusercontent.com/fuzzwah/recipes/images/pics/Meatballs_in_rich_tomato_sauce.jpg)
+![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Meatballs_in_rich_tomato_sauce.jpg)
 #### 0:30 Prep -- 0:25 Cook -- 4 Servings
 ## INGREDIENTS
 * 500g veal mince

@@ -1,5 +1,5 @@
 # Keto chicken parmi bowl
-![](https://raw.githubusercontent.com/fuzzwah/recipes/images/pics/Keto_chicken_parmi_bowl.jpg)
+![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Keto_chicken_parmi_bowl.jpg)
 #### 0:50 Prep -- 0:30 Cook -- 4 Servings
 ## INGREDIENTS
 * 1 egg
