@@ -104,6 +104,8 @@
 [![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Ranch-ish_sauce.jpg)](Ranch-ish_sauce.md)
 ### [Roast chicken](Roast_chicken.md)
 [![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Roast_chicken.jpg)](Roast_chicken.md)
+### [Salmon and potato patties](Salmon_and_potato_patties.md)
+[![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Salmon_and_potato_patties.jpg)](Salmon_and_potato_patties.md)
 ### [Satay chicken](Satay_chicken.md)
 [![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Satay_chicken.jpg)](Satay_chicken.md)
 ### [Shiitake and pork mince stir-fry](Shiitake_and_pork_mince_stir-fry.md)
