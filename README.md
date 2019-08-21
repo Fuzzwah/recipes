@@ -116,5 +116,7 @@
 [![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Turkey_miso_meatballs_with_noodle_salad.jpg)](Turkey_miso_meatballs_with_noodle_salad.md)
 ### [Vegetarian pumpkin pasta bake](Vegetarian_pumpkin_pasta_bake.md)
 [![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Vegetarian_pumpkin_pasta_bake.jpg)](Vegetarian_pumpkin_pasta_bake.md)
+### [Zucchini haloumi and brussels sprout fritters](Zucchini_haloumi_and_brussels_sprout_fritters.md)
+[![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Zucchini_haloumi_and_brussels_sprout_fritters.jpg)](Zucchini_haloumi_and_brussels_sprout_fritters.md)
 ### [Zucchini slice fritters with avocado chilli salsa](Zucchini_slice_fritters_with_avocado_chilli_salsa.md)
 [![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Zucchini_slice_fritters_with_avocado_chilli_salsa.jpg)](Zucchini_slice_fritters_with_avocado_chilli_salsa.md)
