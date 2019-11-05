@@ -82,6 +82,8 @@
 [![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Mexican_chicken.jpg)](Mexican_chicken.md)
 ### [Mexican chicken and rice bowl](Mexican_chicken_and_rice_bowl.md)
 [![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Mexican_chicken_and_rice_bowl.jpg)](Mexican_chicken_and_rice_bowl.md)
+### [Mongolian beef and broccoli](Mongolian_beef_and_broccoli.md)
+[![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Mongolian_beef_and_broccoli.jpg)](Mongolian_beef_and_broccoli.md)
 ### [Mongolian chicken](Mongolian_chicken.md)
 [![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Mongolian_chicken.jpg)](Mongolian_chicken.md)
 ### [Moroccan beef brisket tagine](Moroccan_beef_brisket_tagine.md)
