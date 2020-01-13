@@ -1,6 +1,6 @@
 # Beef and mushroom kebabs with buckwheat salad
 ![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Beef_and_mushroom_kebabs_with_buckwheat_salad.jpg)
-#### 0:10 Prep -- 0:10 Cook -- 4 Servings
+#### 0:30 Prep -- 0:55 Cook -- 4 Servings
 ## INGREDIENTS
 * 1 tablespoon finely chopped fresh rosemary
 * 1/4 cup extra virgin olive oil

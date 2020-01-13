@@ -1,6 +1,6 @@
 # Leek and mushroom pasta
 ![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Leek_and_mushroom_pasta.jpg)
-#### 0:10 Prep -- 0:10 Cook -- 4 Servings
+#### 0:10 Prep -- 0:15 Cook -- 4 Servings
 ## INGREDIENTS
 * 250g farfalle pasta
 * 1 bunch asparagus, ends trimmed, cut into 2cm pieces
