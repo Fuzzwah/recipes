@@ -43,6 +43,7 @@ import os
 import sys
 import argparse
 import logging, logging.handlers
+from PIL import Image
 
 class App(object):
     """ The main class of your application
@@ -73,6 +74,18 @@ class App(object):
                 recipes.append(recipe_name)
                 readme.write("### [{recipe_name}]({f}.md)\n".format(recipe_name=recipe_name, f=f))
                 readme.write("[![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/{f}.jpg)]({f}.md)\n".format(recipe_name=recipe_name, f=f))
+
+        images = [f for f in sorted(os.listdir('pics')) if os.path.isfile(f)]
+        for f in images:
+            extension = os.path.splitext(f)[1][1:]
+            if extension == "jpg":
+                basewidth = 600
+                img = Image.open(f)
+                if float(img.size[0]) > 600:
+                    wpercent = (basewidth / float(img.size[0]))
+                    hsize = int((float(img.size[1]) * float(wpercent)))
+                    img = img.resize((basewidth, hsize), PIL.Image.ANTIALIAS)
+                    img.save(f)
         
         print("README.md updated to list {} recipes".format(len(recipes)))
 
