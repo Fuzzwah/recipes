@@ -79,15 +79,24 @@ class App(object):
         dir = os.getcwd()
         images = glob(f'{dir}/pics/*.jpg')
         for f in images:
-            basewidth = 600
+            resized = False
+            target_width = 600
+            target_height = 400
             img = Image.open(f)
-            if float(img.size[0]) > 600:
-                f = f[:-3]
-                recipe_name = f.replace("_", " ")
-                print(f"Resizing image for {recipe_name}")
-                wpercent = (basewidth / float(img.size[0]))
+            current_width, current_height = img.size
+            if float(current_width) > target_width:
+                resized = True
+                wpercent = (target_width / float(current_width))
                 hsize = int((float(img.size[1]) * float(wpercent)))
-                img = img.resize((basewidth, hsize), Image.ANTIALIAS)
+                img = img.resize((target_width, hsize), Image.ANTIALIAS)
+            if float(current_height) > target_height:
+                resized = True
+                top = (current_height - target_height)//2
+                bottom = (current_height + target_height)//2
+                img = img.crop((0, top, 600, bottom))  
+            if resized:
+                recipe_name = f.split('/')[-1][:-4].replace("_", " ")
+                print(f"Resizing image for {recipe_name}")
                 img.save(f)
         
         print("README.md updated to list {} recipes".format(len(recipes)))
