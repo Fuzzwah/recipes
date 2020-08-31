@@ -40,6 +40,7 @@ __license__ = "LGPL 3.0"
 __version__ = "v0.180421a"
 
 import os
+from glob import glob
 import sys
 import argparse
 import logging, logging.handlers
@@ -75,17 +76,19 @@ class App(object):
                 readme.write("### [{recipe_name}]({f}.md)\n".format(recipe_name=recipe_name, f=f))
                 readme.write("[![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/{f}.jpg)]({f}.md)\n".format(recipe_name=recipe_name, f=f))
 
-        images = [f for f in sorted(os.listdir('pics')) if os.path.isfile(f)]
+        dir = os.getcwd()
+        images = glob(f'{dir}/pics/*.jpg')
         for f in images:
-            extension = os.path.splitext(f)[1][1:]
-            if extension == "jpg":
-                basewidth = 600
-                img = Image.open(f)
-                if float(img.size[0]) > 600:
-                    wpercent = (basewidth / float(img.size[0]))
-                    hsize = int((float(img.size[1]) * float(wpercent)))
-                    img = img.resize((basewidth, hsize), PIL.Image.ANTIALIAS)
-                    img.save(f)
+            basewidth = 600
+            img = Image.open(f)
+            if float(img.size[0]) > 600:
+                f = f[:-3]
+                recipe_name = f.replace("_", " ")
+                print(f"Resizing image for {recipe_name}")
+                wpercent = (basewidth / float(img.size[0]))
+                hsize = int((float(img.size[1]) * float(wpercent)))
+                img = img.resize((basewidth, hsize), Image.ANTIALIAS)
+                img.save(f)
         
         print("README.md updated to list {} recipes".format(len(recipes)))
 
