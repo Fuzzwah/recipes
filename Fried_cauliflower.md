@@ -11,6 +11,16 @@
 * Steamed rice, to serve
 * Sesame seeds, to sprinkle
 * Green shallots, trimmed, sliced, to serve
+## Sauce
+* 1 tablespoon peanut oil
+* 3 garlic cloves, crushed
+* 160ml (2/3 cup) tomato passata
+* 80ml (1/3 cup) hot chilli sauce (like Sriracha)
+* 80ml (1/3 cup) water
+* 2 tablespoons brown sugar
+* 2 tablespoons light soy sauce
+* 3 teaspoons rice vinegar
+* 1 teaspoon sesame oil
 ## METHOD
 ### Step 1
 To make the sauce, heat the oil in a wok over high heat. Stir-fry the garlic for 30 seconds or until aromatic. Add the passata, chilli sauce, 80ml (1/3 cup) water, sugar, soy sauce and vinegar. Simmer, stirring occasionally, for 15 minutes or until thickened. Stir through the sesame oil. Set aside.
