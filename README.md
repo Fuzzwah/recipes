@@ -56,6 +56,8 @@
 [![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Fettucine_primavera.jpg)](Fettucine_primavera.md)
 ### [French onion soup](French_onion_soup.md)
 [![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/French_onion_soup.jpg)](French_onion_soup.md)
+### [Fried cauliflower](Fried_cauliflower.md)
+[![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Fried_cauliflower.jpg)](Fried_cauliflower.md)
 ### [Green pea and ham soup](Green_pea_and_ham_soup.md)
 [![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Green_pea_and_ham_soup.jpg)](Green_pea_and_ham_soup.md)
 ### [Jerk chicken salad](Jerk_chicken_salad.md)
