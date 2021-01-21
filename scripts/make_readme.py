@@ -46,6 +46,20 @@ import argparse
 import logging, logging.handlers
 from PIL import Image
 
+def crop_resize(image, size, ratio):
+    # crop to ratio, center
+    w, h = image.size
+    if w > ratio * h: # width is larger then necessary
+        x, y = (w - ratio * h) // 2, 0
+    else: # ratio*height >= width (height is larger)
+        x, y = 0, (h - w / ratio) // 2
+    image = image.crop((x, y, w - x, h - y))
+
+    # resize
+    if image.size > size: # don't stretch smaller images
+        image.thumbnail(size, Image.ANTIALIAS)
+    return image
+
 class App(object):
     """ The main class of your application
     """
@@ -78,26 +92,13 @@ class App(object):
 
         dir = os.getcwd()
         images = glob(f'{dir}/pics/*.jpg')
+        target_size = (600, 400)
         for f in images:
-            resized = False
-            target_width = 600
-            target_height = 400
-            img = Image.open(f)
-            current_width, current_height = img.size
-            if float(current_width) > target_width:
-                resized = True
-                wpercent = (target_width / float(current_width))
-                hsize = int((float(img.size[1]) * float(wpercent)))
-                img = img.resize((target_width, hsize), Image.ANTIALIAS)
-            if float(current_height) > target_height:
-                resized = True
-                top = (current_height - target_height)//2
-                bottom = (current_height + target_height)//2
-                img = img.crop((0, top, 600, bottom))  
-            if resized:
-                recipe_name = f.split('/')[-1][:-4].replace("_", " ")
-                print(f"Resizing image for {recipe_name}")
-                img.save(f)
+            image = Image.open(f)
+            if image.size > target_size:
+                print(f"Resizing {f}")                
+                image = crop_resize(image, target_size, target_size[0] / target_size[1])
+                image.save(f)
         
         print("README.md updated to list {} recipes".format(len(recipes)))
 
