@@ -1,5 +1,5 @@
-# Mexican fried rice
-![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Mexican_fried_rice.jpg)
+# Zucchini and sweet potato zoodle bake
+![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Zucchini_and_sweet_potato_zoodle_bake.jpg)
 #### 1:20 Prep -- 0:40 Cook -- 4 Servings
 ## INGREDIENTS
 * 1 cup brown rice
@@ -17,7 +17,6 @@
 * 120g feta, crumbled
 * Fresh coriander, to serve
 * Lime wedges, to serve
-
 ## METHOD
 ### Step 1
 Cook the rice in a large saucepan of boiling water for 25 minutes or until tender. Drain well, then spread onto a large tray and place into the fridge, uncovered, for at least 1 hour.
