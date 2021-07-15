@@ -54,6 +54,8 @@
 [![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Creamy_garlic_prawns.jpg)](Creamy_garlic_prawns.md)
 ### [Dahl with spinach](Dahl_with_spinach.md)
 [![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Dahl_with_spinach.jpg)](Dahl_with_spinach.md)
+### [Fettuccine carbonara](Fettuccine_carbonara.md)
+[![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Fettuccine_carbonara.jpg)](Fettuccine_carbonara.md)
 ### [Fettucine primavera](Fettucine_primavera.md)
 [![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Fettucine_primavera.jpg)](Fettucine_primavera.md)
 ### [French onion soup](French_onion_soup.md)
