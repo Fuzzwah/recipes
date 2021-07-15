@@ -1,5 +1,5 @@
-# Beef chow mein bake
-![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Beef_chow_mein_bake.jpg)
+# Cauliflower fried rice
+![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Cauliflower_fried_rice.jpg)
 #### 0:15 Prep -- 0:45 Cook -- 4 Servings
 ## INGREDIENTS
 * 800g sweet potato, peeled

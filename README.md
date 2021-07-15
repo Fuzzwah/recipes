@@ -30,6 +30,8 @@
 [![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Caramel_chicken.jpg)](Caramel_chicken.md)
 ### [Caramelised onion relish](Caramelised_onion_relish.md)
 [![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Caramelised_onion_relish.jpg)](Caramelised_onion_relish.md)
+### [Cauliflower fried rice](Cauliflower_fried_rice.md)
+[![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Cauliflower_fried_rice.jpg)](Cauliflower_fried_rice.md)
 ### [Cauliflower fritters](Cauliflower_fritters.md)
 [![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Cauliflower_fritters.jpg)](Cauliflower_fritters.md)
 ### [Cauliflower mac and cheese](Cauliflower_mac_and_cheese.md)
