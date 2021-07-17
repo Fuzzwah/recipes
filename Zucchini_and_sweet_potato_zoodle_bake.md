@@ -1,5 +1,5 @@
-# Beef chow mein bake
-![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Beef_chow_mein_bake.jpg)
+# Zucchini and sweet potato zoodle bake
+![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Zucchini_and_sweet_potato_zoodle_bake.jpg)
 #### 0:15 Prep -- 0:45 Cook -- 4 Servings
 ## INGREDIENTS
 * 800g sweet potato, peeled
