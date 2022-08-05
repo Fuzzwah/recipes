@@ -2,11 +2,14 @@
 ![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Fettuccine_carbonara.jpg)
 #### 0:10 Prep -- 0:15 Cook -- 4 Servings
 ## INGREDIENTS
-* 350 fettuccine
-* 4 eggs
-* 150 g bacon or pancetta, chopped
-* 100 g parmesan cheese freshly grated (plus extra for serving)
-* sea salt and cracked pepper to serve
+* 2 chicken breasts
+* 2 tsp olive oil
+* 1 1/2 tbsp brown sugar
+* 1 tsp paprika
+* 1 tsp dried oregano or thyme
+* 1/4 tsp garlic powder
+* 1/2 tsp each salt and pepper
+
 ## METHOD
 ### Step 1
 Bring a large saucepan of water to the boil. Add 1-2 tsp salt.
