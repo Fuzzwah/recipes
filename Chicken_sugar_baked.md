@@ -1,5 +1,5 @@
-# Mushroom Sauce
-![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Chicken_sugar_bake.jpg)
+# Sweet Paprika Baked Chicken
+![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Chicken_sugar_baked.jpg)
 #### 0:10 Prep -- 0:18 Cook -- 4 Servings
 ## INGREDIENTS
 * 2 chicken breasts
