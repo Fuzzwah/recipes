@@ -1,9 +1,9 @@
-# Teriyaki salmon with edamame rice
-![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Teriyaki_salmon_with_edamame_rice.jpg)
-#### 0:10 Prep -- 0:15 Cook -- 4 Servings
+# Teriyaki salmon with rice
+![](https://raw.githubusercontent.com/fuzzwah/recipes/master/pics/Teriyaki_salmon_with_rice.jpg)
+#### 0:10 Prep -- 0:20 Cook -- 4 Servings
 ## INGREDIENTS
 * 4 (about 150g each) skinless salmon fillets
-* 1 cup frozen edamame beans, thawed
+* 1 cup frozen peas, thawed
 * 2 cups jasmine rice
 * 2 carrots, peeled, coarsely grated
 * 1 Lebanese cucumber, thinly sliced
@@ -17,7 +17,7 @@
 * 1 garlic clove, crushed
 ## METHOD
 ### Step 1
-Cook rice according to packet directions. Stir in edamame and cover to keep warm.
+Place rice and 3 cups of water in a medium saucepan. Bring to the boil over high heat. Reduce heat to low, cover and cook for 12 minutes or until water is absorbed. Remove from heat and stir in peas. Cover and stand for 5 minutes.
 ### Step 2
 Combine soy sauce, honey, rice wine vinegar, sesame oil and garlic in a small jug to make the teriyaki sauce.
 ### Step 3
